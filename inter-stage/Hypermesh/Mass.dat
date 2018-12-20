@@ -1,0 +1,31 @@
+
+Center of Gravity
+Component Name                 ID      MASS             X             Y             Z
+RBE3_ELE                        1       0.0           N/A           N/A           N/A  
+Cylinder_shell                  2  0.066863  -1.73162E-05  -7.55004E-05  4.462617E-05
+Axial_beams0                    3   0.00153  9.847410E-11  1.486927E-10  -6.86400E-04
+Axial_beams1                    4   0.00153  -2.11489E-10  -1.51051E-11  9.862208E-04
+Axial_open_beams                5  2.81E-04  4.136941E-11  -7.04783E-13  -4.86857E-13
+Axial_Beam_Open_                6  1.40E-04  -1.48984E+02  1.131648E+03  2.378735E-03
+Axial_Beam_Open_                7  1.40E-04  -1.13165E+03  -1.48984E+02  -3.34276E-03
+Axial_Beam_Open_                8  1.40E-04  1.489843E+02  -1.13165E+03  2.378735E-03
+Axial_Beam_Open_                9  1.40E-04  1.131648E+03  1.489843E+02  -3.34276E-03
+Axial_Beam_Open_               10  1.40E-04  1.489843E+02  1.131648E+03  -2.37873E-03
+Axial_Beam_Open_               11  1.40E-04  -1.13165E+03  1.489843E+02  3.342757E-03
+Axial_Beam_Open_               12  1.40E-04  -1.48984E+02  -1.13165E+03  -2.37873E-03
+Axial_Beam_Open_               13  1.40E-04  1.131648E+03  -1.48984E+02  3.342757E-03
+Axial_Beam_Array               14  0.004209  7.774537E+02  7.774539E+02  2.460691E-05
+Axial_Beam_Array               15  0.004209  -7.77454E+02  7.774539E+02  3.387773E-04
+Axial_Beam_Array               16  0.004209  -7.77454E+02  -7.77454E+02  2.460691E-05
+Axial_Beam_Array               17  0.004209  7.774537E+02  -7.77454E+02  3.698876E-04
+Circle_Beam0                   18  0.002326  2.480500E-10  2.482853E-10  9.369150E-12
+Circle_Open_Beam               19  7.75E-04  2.830828E-09  -7.63120E-10  -3.00000E+01
+Circle_Open_Beam               20  0.002326  2.951230E-09  3.291725E-11  -1.62000E+02
+Circle_Open_Beam               21  0.002326  2.743916E-09  2.785925E-09  1.620000E+02
+Circle_Open_Beam               22  7.75E-04  2.426174E-12  1.339514E-12  3.000000E+01
+Upper_Frame_shel               23  0.014535  5.858119E-04  -1.67636E-04  3.600000E+02
+Down_Frame_shell               24  0.014535  2.589794E-04  -3.69719E-04  -3.60000E+02
+
+Number of Components: 24
+Mass of Model: 0.125761
+Center of Gravity for Model --  X: 9.155338E-05  Y: -1.03692E-04  Z: 2.297860E-04
